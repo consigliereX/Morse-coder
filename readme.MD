@@ -70,7 +70,7 @@ pip install -r requirements.txt
 3. Run the main application:
 
 ```bash
-python <script_name>.py
+python Omerta.py
 ```
 
 ## Dependencies
