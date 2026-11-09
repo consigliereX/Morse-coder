@@ -56,6 +56,7 @@ The project is designed as a full-feature Morse code workstation rather than a b
 ## Installation
 
 ### Requirements
+- Windows (the current `Omerta.py` imports the Windows-only `winsound` module)
 - Python 3.x
 - dependencies listed in `requirements.txt`
 
